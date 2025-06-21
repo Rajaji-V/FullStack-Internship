@@ -1,0 +1,10 @@
+a=10;
+b=5;
+add=a+b;
+sub=a-b;
+mul=a*b;
+div=a/b;
+console.log(add);
+console.log(sub);
+console.log(mul);
+console.log(div);
